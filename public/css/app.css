@@ -1,0 +1,25 @@
+.nav__user {
+    display: flex;
+    align-items: center;
+}
+
+.nav__user__icon {
+    margin-right: 10px;
+    font-size: 1.5rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.nav__user__icon i {
+    margin-right: 5px;
+}
+
+.nav__user__icon span {
+    font-size: 1rem;
+    color: #333;
+}
+
+.nav__btn {
+    margin-left: 10px;
+}
